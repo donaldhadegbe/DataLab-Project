@@ -1,4 +1,4 @@
-# Created on Fri Sep 13 21:04:11 2019
+# Created on Fri Sep 13 21:04:12 2019
 # @author: Donald HADEGBE, Big thank to Gustavo Saidler
 
 # 'pip install --ignore-installed instagramAPI' à renseigner dans l'invit de commande _
